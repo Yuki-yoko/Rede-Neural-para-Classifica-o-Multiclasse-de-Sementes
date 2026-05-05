@@ -28,3 +28,6 @@ Os resultados demonstram que mesmo uma arquitetura simples é capaz de capturar 
 - Python
 - NumPy
 - Implementação manual de rede neural
+
+## Fonte do Dataset
+ZHANG, Ruiwu. Seeds Dataset. Kaggle, 2019. Disponível https://www.kaggle.com/datasets/rwzhang/seeds-dataset
